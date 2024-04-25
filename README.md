@@ -2,9 +2,6 @@
 Work Sheet 2 Reinforcement Leaning : Chapter 2
 
 
-Note:
-Do not use ready-made implementations for the following tasks. Implement the tasks yourself from
-scratch.
 Exercise 1 :
 Reinforcement Learning : Multi-Armed Bandits
 a) Implement the multi-armed bandit problem from chapter 2.3 of [1]. Make sure that you can
